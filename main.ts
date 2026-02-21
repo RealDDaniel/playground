@@ -55,7 +55,6 @@ function main() {
   demonstrateArrayUtils();
 
   console.log("Demo completed successfully!");
-  console.log("");
   console.log("Run tests with: deno test");
 }
 
